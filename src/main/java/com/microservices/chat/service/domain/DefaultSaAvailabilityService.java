@@ -9,6 +9,8 @@ import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;
 
+//sample domain service class, used primarily with repositories, properties, and other external service needs
+
 @RequiredArgsConstructor
 @Service
 @Slf4j

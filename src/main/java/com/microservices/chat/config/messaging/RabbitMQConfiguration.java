@@ -7,6 +7,7 @@ import org.springframework.context.annotation.Configuration;
 
 import java.util.Queue;
 
+// sample structure only for the RMQ bindings
 @Configuration
 public class RabbitMQConfiguration {
 
